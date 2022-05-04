@@ -101,12 +101,13 @@ main {
 }
 
 .nav-link img {
-  width: 30px;
-  height: 42px;
+  width: 26px;
+  height: 30px;
 }
 
 .nav-link h2 {
   padding: 0px 20px;
+  font-size: 20px;
 }
 
 .resources {
